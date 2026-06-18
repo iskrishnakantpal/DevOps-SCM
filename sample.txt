@@ -1,0 +1,6 @@
+Accenture DevOps SCM Activity
+
+Repository Name: DevOps-SCM
+Created by: Krishnakant Pal
+
+This repository was created for practicing GitHub and Source Code Management concepts.
